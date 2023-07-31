@@ -1,0 +1,11 @@
+<world name="default">
+  <include>
+    <uri>model://sun</uri>
+  </include>
+
+  <gui>
+    <sky>
+      <color>1 1 1 1</color>
+    </sky>
+  </gui>
+</world>

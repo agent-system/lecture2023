@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<robot name="my_object">
+
+  <!-- Definition of the object link -->
+  <link name="base_link">
+    <kinematic>true</kinematic>
+    
+    <inertial>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <mass value="1"/>
+      <inertia ixx="0.083" ixy="0.0" ixz="0.0" iyy="0.083" iyz="0.0" izz="0.083"/>
+    </inertial>
+
+    <visual>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+        <mesh filename="$(find synchronization)/meshes/arrow.stl"/>
+      </geometry>
+      <material name="blue">
+        <color rgba="0 0 1 1"/>
+      </material>
+    </visual>
+
+    <collision>
+      <origin xyz="0 0 0" rpy="0 0 0"/>
+      <geometry>
+        <mesh filename="$(find synchronization)/meshes/arrow.stl"/>
+      </geometry>
+    </collision>
+
+  </link>
+
+</robot>
