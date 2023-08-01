@@ -1,0 +1,2 @@
+Place centerpiece
+Move the centerpiece until it is centered in the middle of the table.

@@ -1,0 +1,4 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <shower> (25)
+<char0> [FIND] <shower> (25)
+<char0> [WASH] <shower> (25)

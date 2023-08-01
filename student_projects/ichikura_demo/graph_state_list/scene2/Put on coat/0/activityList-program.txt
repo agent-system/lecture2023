@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <hanger> (313)
+<char0> [TURNTO] <hanger> (313)
+<char0> [LOOKAT] <hanger> (313)
+<char0> [FIND] <clothes_scarf> (1000)
+<char0> [GRAB] <clothes_scarf> (1000)
+<char0> [PUTON] <clothes_scarf> (1000)

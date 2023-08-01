@@ -1,0 +1,2 @@
+Manage emails
+Check the email account for new mails or sending to others.

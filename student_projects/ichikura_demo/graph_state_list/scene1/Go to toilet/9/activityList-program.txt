@@ -1,0 +1,6 @@
+<char0> [STANDUP]
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <toilet> (46)
+<char0> [FIND] <toilet> (46)
+<char0> [TURNTO] <toilet> (46)
+<char0> [LOOKAT] <toilet> (46)

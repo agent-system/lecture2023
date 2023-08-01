@@ -1,0 +1,6 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <bed> (111)
+<char0> [FIND] <bed> (111)
+<char0> [LIE] <bed> (111)
+<char0> [FIND] <sheets> (1000)
+<char0> [PULL] <sheets> (1000)

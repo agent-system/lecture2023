@@ -1,0 +1,3 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <stereo> (1000)
+<char0> [SWITCHON] <stereo> (1000)

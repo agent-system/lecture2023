@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <clothes_jacket> (1000)
+<char0> [FIND] <clothes_jacket> (1000)
+<char0> [GRAB] <clothes_jacket> (1000)
+<char0> [WALK] <wall> (263)
+<char0> [FIND] <hanger> (313)
+<char0> [PUTBACK] <clothes_jacket> (1000) <hanger> (313)

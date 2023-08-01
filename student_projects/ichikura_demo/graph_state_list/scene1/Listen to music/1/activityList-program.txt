@@ -1,0 +1,4 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <stereo> (1000)
+<char0> [TOUCH] <stereo> (1000)
+<char0> [TURNTO] <stereo> (1000)

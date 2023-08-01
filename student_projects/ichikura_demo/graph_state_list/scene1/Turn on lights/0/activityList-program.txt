@@ -1,0 +1,7 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <floor_lamp> (1000)
+<char0> [FIND] <floor_lamp> (1000)
+<char0> [TURNTO] <floor_lamp> (1000)
+<char0> [SWITCHON] <floor_lamp> (1000)
+<char0> [FIND] <bed> (111)
+<char0> [LIE] <bed> (111)

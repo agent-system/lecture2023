@@ -1,0 +1,7 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <laptop> (1000)
+<char0> [FIND] <laptop> (1000)
+<char0> [SWITCHON] <laptop> (1000)
+<char0> [TURNTO] <laptop> (1000)
+<char0> [LOOKAT] <laptop> (1000)
+<char0> [WATCH] <laptop> (1000)

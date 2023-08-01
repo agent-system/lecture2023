@@ -1,0 +1,3 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <light> (234)
+<char0> [SWITCHON] <light> (234)

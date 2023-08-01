@@ -1,0 +1,2 @@
+Wash dishes with dishwasher
+Walk to Kitchen, find dishwasher. Find vessels to be washed. Open dishwasher, put vessels in dish washer, close dish washer and switch it on.

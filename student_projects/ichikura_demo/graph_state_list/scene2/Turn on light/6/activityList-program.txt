@@ -1,0 +1,6 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <filing_cabinet> (1001)
+<char0> [FIND] <remote_control> (1000)
+<char0> [GRAB] <remote_control> (1000)
+<char0> [FIND] <light> (303)
+<char0> [SWITCHON] <light> (303)

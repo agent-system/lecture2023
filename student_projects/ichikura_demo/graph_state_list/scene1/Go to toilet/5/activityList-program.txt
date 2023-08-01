@@ -1,0 +1,11 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <toilet> (46)
+<char0> [FIND] <toilet> (46)
+<char0> [SIT] <toilet> (46)
+<char0> [FIND] <toilet_paper> (1000)
+<char0> [GRAB] <toilet_paper> (1000)
+<char0> [WIPE] <toilet_paper> (1000)
+<char0> [STANDUP]
+<char0> [WALK] <sink> (1002)
+<char0> [FIND] <soap> (1001)
+<char0> [WASH] <soap> (1001)

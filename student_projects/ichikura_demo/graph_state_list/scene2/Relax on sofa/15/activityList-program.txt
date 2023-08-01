@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <couch> (289)
+<char0> [FIND] <couch> (289)
+<char0> [SIT] <couch> (289)
+<char0> [FIND] <water_glass> (1000)
+<char0> [GRAB] <water_glass> (1000)
+<char0> [DRINK] <water_glass> (1000)

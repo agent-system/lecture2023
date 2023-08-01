@@ -1,0 +1,2 @@
+Cook some food
+Walk Into Kitchen. Open Refrigerator. Grab Food. Walk to Microwave. Insert food into microwave. Cook until warm.

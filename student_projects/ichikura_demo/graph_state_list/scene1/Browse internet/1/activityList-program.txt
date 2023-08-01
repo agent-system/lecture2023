@@ -1,0 +1,11 @@
+<char0> [STANDUP]
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <computer> (434)
+<char0> [FIND] <computer> (434)
+<char0> [WALK] <computer> (434)
+<char0> [SWITCHON] <computer> (434)
+<char0> [FIND] <mouse> (430)
+<char0> [GRAB] <mouse> (430)
+<char0> [FIND] <button> (1000)
+<char0> [TURNTO] <button> (1000)
+<char0> [LOOKAT] <button> (1000)

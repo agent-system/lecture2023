@@ -1,0 +1,5 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <table> (290)
+<char0> [FIND] <table> (290)
+<char0> [FIND] <computer> (296)
+<char0> [SWITCHON] <computer> (296)

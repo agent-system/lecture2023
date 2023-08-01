@@ -1,0 +1,4 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <cat> (1000)
+<char0> [FIND] <cat> (1000)
+<char0> [TOUCH] <cat> (1000)

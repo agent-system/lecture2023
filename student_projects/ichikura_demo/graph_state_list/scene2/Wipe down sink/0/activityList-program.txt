@@ -1,0 +1,7 @@
+<char0> [WALK] <dining_room> (50)
+<char0> [WALK] <rag> (1000)
+<char0> [FIND] <rag> (1000)
+<char0> [GRAB] <rag> (1000)
+<char0> [WALK] <sink> (143)
+<char0> [WIPE] <sink> (143)
+<char0> [PUTOBJBACK] <rag> (1000)

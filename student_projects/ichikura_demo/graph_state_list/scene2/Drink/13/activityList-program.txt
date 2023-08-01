@@ -1,0 +1,6 @@
+<char0> [WALK] <dining_room> (50)
+<char0> [WALK] <table> (123)
+<char0> [FIND] <water_glass> (1000)
+<char0> [GRAB] <water_glass> (1000)
+<char0> [DRINK] <water_glass> (1000)
+<char0> [PUTBACK] <water_glass> (1000) <table> (123)

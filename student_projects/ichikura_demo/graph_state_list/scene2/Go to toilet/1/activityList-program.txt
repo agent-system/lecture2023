@@ -1,0 +1,6 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <clothes_pants> (1000)
+<char0> [FIND] <clothes_pants> (1000)
+<char0> [PULL] <clothes_pants> (1000)
+<char0> [FIND] <toilet> (24)
+<char0> [SIT] <toilet> (24)

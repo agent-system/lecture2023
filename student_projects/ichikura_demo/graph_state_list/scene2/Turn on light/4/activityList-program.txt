@@ -1,0 +1,6 @@
+<char0> [WAKEUP]
+<char0> [STANDUP]
+<char0> [WALK] <floor_lamp> (1000)
+<char0> [FIND] <light> (81)
+<char0> [SWITCHON] <light> (81)
+<char0> [SWITCHOFF] <light> (81)

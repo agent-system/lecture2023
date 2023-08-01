@@ -1,0 +1,2 @@
+Drink
+Go to kitchen. Open the the cabinet. Locate the water glass. Pour water into glass. Drag the bottle close to mouth. Drink water.

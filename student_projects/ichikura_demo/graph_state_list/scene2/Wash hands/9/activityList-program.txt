@@ -1,0 +1,6 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <soap> (1001)
+<char0> [FIND] <soap> (1001)
+<char0> [SCRUB] <soap> (1001)
+<char0> [FIND] <water> (1000)
+<char0> [RINSE] <water> (1000)

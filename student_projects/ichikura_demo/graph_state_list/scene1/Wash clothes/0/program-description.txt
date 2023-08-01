@@ -1,0 +1,2 @@
+Wash clothes
+"I walk to entrance hall" "I walk to bedroom" "I find basket of clothes" "I lift basket of  clothes" "I walk to kitchen" "I find washing machine" "I open washing machine " "I put laundry in washing machine" "I add laundry detergent" " "I close washing machine lid" "I switch washing machine on"

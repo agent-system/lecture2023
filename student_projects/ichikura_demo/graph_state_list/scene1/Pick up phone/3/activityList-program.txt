@@ -1,0 +1,5 @@
+<char0> [WALK] <table> (231)
+<char0> [FIND] <phone> (264)
+<char0> [TURNTO] <phone> (264)
+<char0> [LOOKAT] <phone> (264)
+<char0> [GRAB] <phone> (264)

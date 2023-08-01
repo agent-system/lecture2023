@@ -1,0 +1,2 @@
+Drink
+go to kitchen, get a glass, turn on faucet, fill glass, turn off faucet, drink water from glass, put glass back

@@ -1,0 +1,4 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <window> (1000)
+<char0> [FIND] <window> (1000)
+<char0> [OPEN] <window> (1000)

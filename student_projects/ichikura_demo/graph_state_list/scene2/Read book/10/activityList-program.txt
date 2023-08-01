@@ -1,0 +1,4 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <novel> (1000)
+<char0> [GRAB] <novel> (1000)
+<char0> [READ] <novel> (1000)

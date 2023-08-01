@@ -1,0 +1,4 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <filing_cabinet> (222)
+<char0> [OPEN] <filing_cabinet> (222)
+<char0> [CLOSE] <filing_cabinet> (222)

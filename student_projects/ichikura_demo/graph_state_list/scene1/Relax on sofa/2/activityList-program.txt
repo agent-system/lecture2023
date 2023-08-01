@@ -1,0 +1,2 @@
+<char0> [WALK] <couch> (369)
+<char0> [LIE] <couch> (369)

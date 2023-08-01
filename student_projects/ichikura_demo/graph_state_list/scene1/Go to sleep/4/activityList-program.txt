@@ -1,0 +1,7 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <bed> (111)
+<char0> [FIND] <bed> (111)
+<char0> [TURNTO] <bed> (111)
+<char0> [LOOKAT] <bed> (111)
+<char0> [SIT] <bed> (111)
+<char0> [SLEEP]

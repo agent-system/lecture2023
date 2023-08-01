@@ -1,0 +1,8 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <keys> (1001)
+<char0> [FIND] <keys> (1001)
+<char0> [GRAB] <keys> (1001)
+<char0> [FIND] <bag> (1000)
+<char0> [OPEN] <bag> (1000)
+<char0> [PUTBACK] <keys> (1001) <bag> (1000)
+<char0> [CLOSE] <bag> (1000)

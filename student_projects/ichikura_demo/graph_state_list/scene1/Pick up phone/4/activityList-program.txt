@@ -1,0 +1,4 @@
+<char0> [WALK] <dining_room> (207)
+<char0> [WALK] <phone> (264)
+<char0> [FIND] <phone> (264)
+<char0> [GRAB] <phone> (264)

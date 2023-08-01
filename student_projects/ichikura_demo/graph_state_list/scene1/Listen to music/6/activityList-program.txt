@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <stereo> (1002)
+<char0> [FIND] <stereo> (1002)
+<char0> [FIND] <button> (1000)
+<char0> [PUSH] <button> (1000)
+<char0> [FIND] <button> (1001)
+<char0> [PUSH] <button> (1001)

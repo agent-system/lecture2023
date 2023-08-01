@@ -1,0 +1,5 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <address_book> (1000)
+<char0> [FIND] <address_book> (1000)
+<char0> [GRAB] <address_book> (1000)
+<char0> [READ] <address_book> (1000)

@@ -1,0 +1,6 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <dresser> (114)
+<char0> [FIND] <dresser> (114)
+<char0> [FIND] <spectacles> (1000)
+<char0> [GRAB] <spectacles> (1000)
+<char0> [PUTON] <spectacles> (1000)

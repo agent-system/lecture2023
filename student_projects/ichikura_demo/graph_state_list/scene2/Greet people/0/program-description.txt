@@ -1,0 +1,2 @@
+Greet people
+Say HI to those that come in.

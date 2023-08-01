@@ -1,0 +1,5 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <table> (290)
+<char0> [FIND] <phone> (1000)
+<char0> [GRAB] <phone> (1000)
+<char0> [DROP] <phone> (1000)
