@@ -1,0 +1,2 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <mop_bucket> (1000)

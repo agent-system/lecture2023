@@ -1,0 +1,2 @@
+Pick up phone
+I'll enter the location containing the phone. Once there, I'll locate the phone, and move close to it. I'll then use my hand to pick up the phone such that I can then use it.

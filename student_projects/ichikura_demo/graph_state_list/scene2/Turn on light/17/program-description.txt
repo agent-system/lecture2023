@@ -1,0 +1,2 @@
+Turn on light
+walk to living room, find lamp, switch on.

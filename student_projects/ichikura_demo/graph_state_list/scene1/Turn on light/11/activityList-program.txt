@@ -1,0 +1,2 @@
+<char0> [WALK] <light> (262)
+<char0> [SWITCHON] <light> (262)

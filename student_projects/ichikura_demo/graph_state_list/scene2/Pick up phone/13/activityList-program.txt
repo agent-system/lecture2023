@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <desk> (292)
+<char0> [FIND] <desk> (292)
+<char0> [FIND] <phone> (1000)
+<char0> [PLUGOUT] <phone> (1000)
+<char0> [GRAB] <phone> (1000)
+<char0> [TOUCH] <phone> (1000)

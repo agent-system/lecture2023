@@ -1,0 +1,8 @@
+<char0> [STANDUP]
+<char0> [WALK] <dining_room> (50)
+<char0> [WALK] <kitchen_counter> (134)
+<char0> [FIND] <kitchen_counter> (134)
+<char0> [TURNTO] <kitchen_counter> (134)
+<char0> [LOOKAT] <kitchen_counter> (134)
+<char0> [FIND] <phone> (79)
+<char0> [GRAB] <phone> (79)

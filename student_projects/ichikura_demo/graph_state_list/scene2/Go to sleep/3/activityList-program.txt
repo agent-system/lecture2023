@@ -1,0 +1,3 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <bed> (219)
+<char0> [LIE] <bed> (219)

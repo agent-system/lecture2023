@@ -1,0 +1,4 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <man> (1000)
+<char0> [FIND] <man> (1000)
+<char0> [GREET] <man> (1000)

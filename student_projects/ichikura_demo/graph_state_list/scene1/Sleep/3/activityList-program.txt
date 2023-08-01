@@ -1,0 +1,10 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <television> (427)
+<char0> [FIND] <television> (427)
+<char0> [SWITCHON] <television> (427)
+<char0> [WALK] <couch> (369)
+<char0> [SIT] <couch> (369)
+<char0> [TURNTO] <television> (427)
+<char0> [WATCH] <television> (427)
+<char0> [LIE] <couch> (369)
+<char0> [SLEEP]

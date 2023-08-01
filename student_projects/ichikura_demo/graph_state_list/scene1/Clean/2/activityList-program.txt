@@ -1,0 +1,5 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <computer> (434)
+<char0> [FIND] <cloth_napkin> (1000)
+<char0> [GRAB] <cloth_napkin> (1000)
+<char0> [WIPE] <computer> (434)

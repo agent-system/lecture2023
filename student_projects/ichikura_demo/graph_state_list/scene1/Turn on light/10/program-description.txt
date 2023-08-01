@@ -1,0 +1,2 @@
+Turn on light
+Walk to living room, go to a light switch button, press button, confirm the light is on, go to next light switch button, press button, confirm the light is on

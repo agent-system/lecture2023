@@ -1,0 +1,2 @@
+Cook some food
+walk to kicthen , find stove , find cooking pot , find vegetables , find water  ,put vegetables in cooking pot, pour water to cooking pot,put cooking pot on stove, switch on stove

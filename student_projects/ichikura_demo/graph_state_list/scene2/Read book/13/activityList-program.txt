@@ -1,0 +1,8 @@
+<char0> [STANDUP]
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <novel> (1000)
+<char0> [FIND] <novel> (1000)
+<char0> [GRAB] <novel> (1000)
+<char0> [TURNTO] <novel> (1000)
+<char0> [LOOKAT] <novel> (1000)
+<char0> [READ] <novel> (1000)

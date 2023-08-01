@@ -1,0 +1,5 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <window> (331)
+<char0> [FIND] <window> (331)
+<char0> [TURNTO] <window> (331)
+<char0> [LOOKAT] <window> (331)

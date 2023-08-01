@@ -1,0 +1,6 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <stereo> (1000)
+<char0> [FIND] <stereo> (1000)
+<char0> [SWITCHON] <stereo> (1000)
+<char0> [FIND] <bed> (219)
+<char0> [LIE] <bed> (219)

@@ -1,0 +1,3 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <floor_lamp> (1000)
+<char0> [SWITCHON] <floor_lamp> (1000)

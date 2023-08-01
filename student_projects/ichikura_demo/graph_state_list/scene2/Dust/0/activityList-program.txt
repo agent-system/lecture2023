@@ -1,0 +1,5 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <duster> (1000)
+<char0> [FIND] <duster> (1000)
+<char0> [GRAB] <duster> (1000)
+<char0> [PUTOBJBACK] <duster> (1000)

@@ -1,0 +1,2 @@
+Drink
+Pour water into a glass and drink from the glass.

@@ -1,0 +1,6 @@
+<char0> [WALK] <dining_room> (207)
+<char0> [WALK] <light> (262)
+<char0> [FIND] <light> (262)
+<char0> [SWITCHON] <light> (262)
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <home_office> (336)

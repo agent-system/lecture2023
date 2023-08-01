@@ -1,0 +1,2 @@
+<char0> [WALK] <phone> (264)
+<char0> [GRAB] <phone> (264)

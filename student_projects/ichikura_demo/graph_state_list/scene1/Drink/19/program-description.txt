@@ -1,0 +1,2 @@
+Drink
+Walk into kitchen, look for cup, walk to cup, look for refrigerator, walk to refrigerator, open door, grab water, pour water into cup

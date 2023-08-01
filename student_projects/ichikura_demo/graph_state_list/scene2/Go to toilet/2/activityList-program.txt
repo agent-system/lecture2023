@@ -1,0 +1,5 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <toilet> (24)
+<char0> [FIND] <toilet> (24)
+<char0> [OPEN] <toilet> (24)
+<char0> [SIT] <toilet> (24)

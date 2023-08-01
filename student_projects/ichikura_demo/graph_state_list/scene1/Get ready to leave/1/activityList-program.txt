@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <shoes> (1001)
+<char0> [FIND] <shoes> (1001)
+<char0> [GRAB] <shoes> (1001)
+<char0> [PUTON] <shoes> (1001)
+<char0> [FIND] <keys> (1000)
+<char0> [GRAB] <keys> (1000)

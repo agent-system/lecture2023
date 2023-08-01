@@ -1,0 +1,7 @@
+<char0> [WALK] <novel> (1000)
+<char0> [WALK] <bookshelf> (107)
+<char0> [FIND] <novel> (1000)
+<char0> [GRAB] <novel> (1000)
+<char0> [FIND] <chair> (109)
+<char0> [SIT] <chair> (109)
+<char0> [READ] <novel> (1000)

@@ -1,0 +1,8 @@
+<char0> [RUN] <sink> (247)
+<char0> [FIND] <dish_soap> (1001)
+<char0> [GRAB] <dish_soap> (1001)
+<char0> [FIND] <plate> (1000)
+<char0> [PUTBACK] <dish_soap> (1001) <plate> (1000)
+<char0> [RINSE] <dish_soap> (1001)
+<char0> [FIND] <plate> (1000)
+<char0> [WASH] <plate> (1000)

@@ -1,0 +1,7 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <water> (1001)
+<char0> [FIND] <water> (1001)
+<char0> [TURNTO] <water> (1001)
+<char0> [LOOKAT] <water> (1001)
+<char0> [FIND] <hands_both> (1000)
+<char0> [WASH] <hands_both> (1000)

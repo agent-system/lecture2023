@@ -1,0 +1,2 @@
+Drink
+walk to kitchen ,find fridge ,open fridge ,find water  glass , drink from water glass

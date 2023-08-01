@@ -1,0 +1,5 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <desk> (215)
+<char0> [FIND] <desk> (215)
+<char0> [FIND] <light> (234)
+<char0> [PLUGIN] <light> (234)

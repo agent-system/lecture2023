@@ -1,0 +1,6 @@
+<char0> [WALK] <home_office> (336)
+<char0> [WALK] <woman> (1001)
+<char0> [FIND] <woman> (1001)
+<char0> [GREET] <woman> (1001)
+<char0> [FIND] <woman> (1000)
+<char0> [GREET] <woman> (1000)

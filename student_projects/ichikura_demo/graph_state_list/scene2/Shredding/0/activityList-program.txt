@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <filing_cabinet> (1002)
+<char0> [FIND] <check> (1001)
+<char0> [GRAB] <check> (1001)
+<char0> [WALK] <shredder> (1000)
+<char0> [PLUGIN] <shredder> (1000)
+<char0> [PUTBACK] <check> (1001) <shredder> (1000)

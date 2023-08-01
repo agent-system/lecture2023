@@ -1,0 +1,4 @@
+<char0> [WALK] <dining_room> (50)
+<char0> [WALK] <light> (81)
+<char0> [FIND] <light> (81)
+<char0> [SWITCHOFF] <light> (81)

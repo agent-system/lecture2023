@@ -1,0 +1,2 @@
+<char0> [WALK] <cat> (1000)
+<char0> [TOUCH] <cat> (1000)

@@ -1,0 +1,8 @@
+<char0> [WALK] <bathroom> (11)
+<char0> [WALK] <faucet> (51)
+<char0> [FIND] <faucet> (51)
+<char0> [TURNTO] <faucet> (51)
+<char0> [FIND] <water> (1001)
+<char0> [GRAB] <water> (1001)
+<char0> [FIND] <hands_both> (1000)
+<char0> [POUR] <water> (1001) <hands_both> (1000)

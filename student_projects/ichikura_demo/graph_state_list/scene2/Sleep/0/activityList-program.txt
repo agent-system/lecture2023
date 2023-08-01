@@ -1,0 +1,11 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <dresser> (1000)
+<char0> [FIND] <dresser> (1000)
+<char0> [OPEN] <dresser> (1000)
+<char0> [FIND] <pajamas> (1001)
+<char0> [GRAB] <pajamas> (1001)
+<char0> [PUTON] <pajamas> (1001)
+<char0> [CLOSE] <dresser> (1000)
+<char0> [WALK] <bed> (219)
+<char0> [LIE] <bed> (219)
+<char0> [SLEEP]

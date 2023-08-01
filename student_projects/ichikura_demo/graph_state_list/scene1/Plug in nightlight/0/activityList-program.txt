@@ -1,0 +1,5 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <dresser> (114)
+<char0> [FIND] <light> (175)
+<char0> [WALK] <electrical_outlet> (1000)
+<char0> [PLUGIN] <light> (175)

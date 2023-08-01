@@ -1,0 +1,4 @@
+<char0> [WALK] <bedroom> (185)
+<char0> [WALK] <window> (213)
+<char0> [TURNTO] <window> (213)
+<char0> [LOOKAT] <window> (213)

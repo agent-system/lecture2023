@@ -1,0 +1,2 @@
+Greet guests
+When someone knocks I n the door walk through the hallway and greet them.

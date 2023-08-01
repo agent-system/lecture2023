@@ -1,0 +1,5 @@
+<char0> [WAKEUP]
+<char0> [STANDUP]
+<char0> [WALK] <dining_room> (207)
+<char0> [WALK] <light> (262)
+<char0> [TURNTO] <light> (262)

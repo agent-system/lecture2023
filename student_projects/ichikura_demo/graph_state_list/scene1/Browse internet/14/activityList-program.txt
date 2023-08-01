@@ -1,0 +1,7 @@
+<char0> [WALK] <bedroom> (74)
+<char0> [WALK] <chair> (109)
+<char0> [FIND] <chair> (109)
+<char0> [SIT] <chair> (109)
+<char0> [FIND] <computer> (176)
+<char0> [SWITCHON] <computer> (176)
+<char0> [FIND] <newspaper> (1000)

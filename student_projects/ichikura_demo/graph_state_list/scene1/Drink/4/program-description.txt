@@ -1,0 +1,2 @@
+Drink
+Walk to kitchen, grab a glass, walk to sink, turn on tap and pour water into glass, drink from glass.

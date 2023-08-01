@@ -1,0 +1,3 @@
+<char0> [WALK] <couch> (220)
+<char0> [SIT] <couch> (220)
+<char0> [SLEEP]

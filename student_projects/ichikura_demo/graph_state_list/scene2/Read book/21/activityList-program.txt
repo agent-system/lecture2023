@@ -1,0 +1,7 @@
+<char0> [WALK] <home_office> (262)
+<char0> [WALK] <bookshelf> (295)
+<char0> [FIND] <novel> (1000)
+<char0> [GRAB] <novel> (1000)
+<char0> [WALK] <couch> (289)
+<char0> [SIT] <couch> (289)
+<char0> [READ] <novel> (1000)
