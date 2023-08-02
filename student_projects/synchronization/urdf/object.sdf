@@ -1,0 +1,87 @@
+<sdf version="1.6">
+  <model name="my_object">
+    <link name="base_link">
+      <kinematic>true</kinematic>
+      
+      <inertial>
+        <pose>0 0 0 0 0 0</pose>
+        <mass>1.0</mass>
+        <inertia>
+          <ixx>0.083</ixx>
+          <ixy>0.04</ixy>
+          <ixz>0.04</ixz>
+          <iyy>0.083</iyy>
+          <iyz>0.04</iyz>
+          <izz>0.083</izz>
+        </inertia>
+      </inertial>
+
+      <visual name="visual">
+        <pose>0 0.4 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.3 0.8 0.5</size>
+          </box>
+        </geometry>
+        <material>
+          <ambient>1 0.5 0.68 1</ambient>
+          <diffuse>1 0.5 0.68 1</diffuse>
+        </material>
+      </visual>
+
+      <collision name="collision">
+        <pose>0 0.4 0 0 0 0</pose>
+        <geometry>
+          <box>
+            <size>0.3 0.8 0.5</size>
+          </box>
+        </geometry>
+      </collision>
+    </link>
+
+    <link name="sphere_link">
+      <kinematic>true</kinematic>
+
+      <inertial>
+        <pose>0 0 0 0 0 0</pose>
+        <mass>1.0</mass>
+        <inertia>
+          <ixx>0.083</ixx>
+          <ixy>0.0</ixy>
+          <ixz>0.0</ixz>
+          <iyy>0.083</iyy>
+          <iyz>0.0</iyz>
+          <izz>0.083</izz>
+        </inertia>
+      </inertial>
+
+      <visual name="visual">
+        <pose>0 0 0.4 0 0 0</pose>
+        <geometry>
+          <sphere>
+            <radius>0.1</radius>
+          </sphere>
+        </geometry>
+        <material>
+          <ambient>0 1 0 1</ambient>
+          <diffuse>0 1 0 1</diffuse>
+        </material>
+      </visual>
+
+      <collision name="collision">
+        <pose>0 0 0.4 0 0 0</pose>
+        <geometry>
+          <sphere>
+            <radius>0.1</radius>
+          </sphere>
+        </geometry>
+      </collision>
+    </link>
+
+    <joint name="box_sphere_joint" type="fixed">
+      <parent>base_link</parent>
+      <child>sphere_link</child>
+    </joint>
+
+  </model>
+</sdf>

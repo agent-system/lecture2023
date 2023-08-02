@@ -1,6 +1,3 @@
-# Student's Project
+# Junyi Shen with Student No. 48236327
 
-Student's project at AgentSystem 2023
-
-Please make pull request to add your directory.
-Directory name should include your name and student_id (optional).
+This project simulates position control and pose synchronization of six individual agents.
